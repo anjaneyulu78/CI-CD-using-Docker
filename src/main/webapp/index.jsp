@@ -16,8 +16,8 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Email</td>
-                        <td><input type="text" name="Email" value="" /></td>
+                        <td>UserName</td>
+                        <td><input type="text" name="username" value="" /></td>
                     </tr>
                     <tr>
                         <td>Password</td>
