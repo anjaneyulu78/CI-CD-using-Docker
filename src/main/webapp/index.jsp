@@ -24,7 +24,7 @@
                         <td><input type="password" name="password" value="" /></td>
                     </tr>
                     <tr>
-                        <td><input type="submit" value="signin" /></td>
+                        <td><input type="submit" value="sign in" /></td>
                         <td><input type="reset" value="Reset" /></td>
                     </tr>
                     <tr>
